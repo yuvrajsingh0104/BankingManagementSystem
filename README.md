@@ -20,8 +20,6 @@ The Banking Management System is designed to simplify the management of day-to-d
   - MySQL Server 8.0
   - Apache NetBeans or any preferred Java IDE
 
-## Installation
-
 ### Prerequisites
 - Java JDK 17 or later
 - MySQL Server 8.0 or later
